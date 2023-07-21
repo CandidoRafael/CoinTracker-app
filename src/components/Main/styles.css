@@ -1,0 +1,43 @@
+.main-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 1.5em;
+    
+}
+
+.section-content {
+    width: 34em;
+    margin-left: 1em;
+   
+}
+
+.section-content h1 {
+    font-size: 3.7em;
+    margin-bottom: .4em;
+    font-weight: 900;
+    text-transform: capitalize;
+    color: #439762;
+}
+
+.section-content p {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.section-content a {
+    background-color: #439762;
+    padding: .5em 2em;
+    color: #fff;
+    border-radius: .5em;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.section-img img{
+    width: 32em;
+    margin-right: 1em;
+    mix-blend-mode: darken;
+}
